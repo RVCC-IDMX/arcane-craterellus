@@ -4,3 +4,4 @@
   [plugins.inputs]
   cloudName = "dijq1vezm"
   deliveryType = "upload"
+  uploadPreset = "arcane"
